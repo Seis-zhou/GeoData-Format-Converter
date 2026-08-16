@@ -1,7 +1,7 @@
 # GeoData-Format-Converter
 Python toolkit for processing SEGY and MAT geophysical data with multi-format conversion and resampling capabilities.
 
-工作流程 / Workflow
+2D_data工作流程 / 2D_data Workflow
 
 步骤一 / Step 1: SEGY 处理 / SEGY Processing
 读取 SEGY 文件，转置数据矩阵，保存为 6 种格式（NPY/BIN/MAT/DAT/TXT/CSV）
