@@ -1,7 +1,7 @@
 # GeoData-Format-Converter
 Python toolkit for processing SEGY and MAT geophysical data with multi-format conversion and resampling capabilities.
 
-2D_data
+**2D_data**
 
 2D Seismic Data Processing Tools / 2D地震数据处理工具
 
@@ -24,7 +24,7 @@ Convert between all formats, generate comparison figures
 
 
 
-3D_data
+**3D_data**
 
 3D Seismic Data Processing Tools / 3D地震数据处理工具
 
